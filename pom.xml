@@ -76,6 +76,11 @@
                                     <version>9.0.30.0</version>
                                     <destFileName>webapp-runner.jar</destFileName>
                                 </artifactItem>
+                                <artifactItem>
+                                    <groupId>org.primefaces</groupId>
+                                    <artifactId>primefaces</artifactId>
+                                    <version>8.0</version>
+                                </artifactItem>
                             </artifactItems>
                         </configuration>
                     </execution>

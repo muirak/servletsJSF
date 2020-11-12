@@ -10,7 +10,7 @@ import javax.enterprise.context.RequestScoped;
 
 /**
  *
- * @author RAVI
+ * @author Rafael Souza
  */
 @Named(value = "loginBean")
 @RequestScoped
